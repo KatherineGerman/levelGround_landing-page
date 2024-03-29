@@ -242,6 +242,8 @@ footer{
   float: left;
   width: 8%;
   list-style: none;
+  font-size: 14px;
+  font-weight: bold;
 }
 
 .contact-section{
@@ -251,3 +253,27 @@ footer{
    
 }
 
+.site-map span{
+    color: #818ea4;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bold;
+    
+}
+
+.contact-section{
+    width: 15%;
+    margin-right: 30px;
+    margin-top: 20px;
+}
+.contact-section h5{
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 1.2;
+}
+.contact-section p{
+    margin-top: 10px;
+    line-height: 1.5;
+   
+   
+}
